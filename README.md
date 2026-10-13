@@ -5,7 +5,7 @@ Este repositorio contiene el Análisis Exploratorio de Datos (EDA) realizado sob
 ## 📌 Objetivos y Metodología El objetivo principal del estudio es analizar la dinámica de precios, la liquidez y las variables clave del sector inmobiliario mediante la formulación y validación de 5 hipótesis:  
 
 - H1 (Insight Principal): La Paradoja del m² 
-- Análisis de la relación inversa entre el tamaño total de la propiedad y su costo unitario por m². 
+  Análisis de la relación inversa entre el tamaño total de la propiedad y su costo unitario por m². 
 - H2: Segmentación Geográfica Evaluación de las diferencias de precio/m² según la ubicación (CABA y zonas de GBA). 
 - H3: Relación de Superficie y Precio Estudio de la correlación lineal entre metros cuadrados cubiertos y el precio final en USD según la tipología.
 - H4: Liquidez y Tipología Análisis de los días de publicación según el tipo de inmueble (PH, Departamento, Casa). 
